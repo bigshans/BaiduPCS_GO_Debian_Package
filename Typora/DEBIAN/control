@@ -1,0 +1,6 @@
+Package: typora
+Version:0.9.60
+Architecture: amd64
+Maintainer: Bigshans
+Description: Markdown 文本编辑器，所见即所得
+Installed-Size: 169974169.6

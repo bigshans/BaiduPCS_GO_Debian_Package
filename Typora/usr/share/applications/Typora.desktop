@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Markdown Editor
+Terminal=false
+Name=Typora
+Exec=/opt/Typora/Typora %U
+Icon=/opt/Typora/favicon-64.png
+Type=Application
