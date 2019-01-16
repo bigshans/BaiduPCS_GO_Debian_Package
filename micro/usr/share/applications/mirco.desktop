@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=mirco
+Exec=/usr/bin/micro %F
+Comment=
+Terminal=true
+Type=Application

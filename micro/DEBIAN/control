@@ -1,0 +1,5 @@
+Package: micro
+Version:1.4.1
+Architecture: amd64
+Maintainer: zyedidia
+Description: a modern and intuitive terminal-based text editor
